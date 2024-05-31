@@ -1,2 +1,5 @@
 # Natours
-This Project was designed by Jonas Schmedtmann to learn Advanced CSS and SASS
+
+This project designed by Jonas Schmedtmann, aims to learn Advanced CSS and SASS.
+
+### Visit the website here [Natours](https://natours-mz.netlify.app/).
