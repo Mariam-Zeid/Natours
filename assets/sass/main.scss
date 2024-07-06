@@ -4,13 +4,11 @@
 @import "base/typography";
 @import "base/margin";
 
-
 @import "pages/footer";
-@import "pages/grid"; 
-@import "pages/header"; 
+@import "pages/grid";
+@import "pages/header";
 @import "pages/navigation";
 @import "pages/sections";
-
 
 @import "components/animation";
 @import "components/button";
@@ -18,5 +16,6 @@
 @import "components/featuers";
 @import "components/form";
 @import "components/gallery";
+@import "components/popup";
 @import "components/story";
 @import "components/video";
