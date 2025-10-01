@@ -2,7 +2,7 @@
 
 Natours is a web project that offers exciting tours for adventurous people. It provides users with detailed information about various tours, allows them to book tours, and shares stories from people who have experienced the tours. This project demonstrates the use of advanced CSS and Sass for creating a beautiful and responsive web design.
 
-### Visit the website here [Natours](https://natours-mz.netlify.app/).
+### Visit the website here [Natours](https://natours-mz.vercel.app/).
 
 ![Natours](./assets/img/Natours.jpg)
 
